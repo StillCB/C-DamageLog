@@ -1,0 +1,767 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:52:00] 
+[12:52:00] Server Plugins
+[12:52:00] --------------
+[12:52:00]  Loaded 0 plugins.
+
+[12:52:00] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[12:52:00] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[12:52:00] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[12:52:00] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[12:52:00] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[12:52:00] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[12:52:00] 
+[12:52:00] Filterscripts
+[12:52:00] ---------------
+[12:52:00]   Loading filterscript 'gl_actions.amx'...
+[12:52:00]   Unable to load filterscript 'gl_actions.amx'.
+[12:52:00]   Loading filterscript 'gl_realtime.amx'...
+[12:52:00]   Unable to load filterscript 'gl_realtime.amx'.
+[12:52:00]   Loading filterscript 'gl_property.amx'...
+[12:52:00]   Unable to load filterscript 'gl_property.amx'.
+[12:52:00]   Loading filterscript 'gl_mapicon.amx'...
+[12:52:00]   Unable to load filterscript 'gl_mapicon.amx'.
+[12:52:00]   Loading filterscript 'ls_elevator.amx'...
+[12:52:00]   Unable to load filterscript 'ls_elevator.amx'.
+[12:52:00]   Loading filterscript 'attachments.amx'...
+[12:52:00]   Unable to load filterscript 'attachments.amx'.
+[12:52:00]   Loading filterscript 'test_cmds.amx'...
+[12:52:00]   Unable to load filterscript 'test_cmds.amx'.
+[12:52:00]   Loading filterscript 'skinchanger.amx'...
+[12:52:00]   Unable to load filterscript 'skinchanger.amx'.
+[12:52:00]   Loading filterscript 'vspawner.amx'...
+[12:52:00]   Unable to load filterscript 'vspawner.amx'.
+[12:52:00]   Loading filterscript 'ls_mall.amx'...
+[12:52:00]   Unable to load filterscript 'ls_mall.amx'.
+[12:52:00]   Loading filterscript 'ls_beachside.amx'...
+[12:52:00]   Unable to load filterscript 'ls_beachside.amx'.
+[12:52:00]   Loading filterscript 'npc_record.amx'...
+[12:52:00]   Unable to load filterscript 'npc_record.amx'.
+[12:52:00]   Loading filterscript 'stunt_island.amx'...
+[12:52:00]   Unable to load filterscript 'stunt_island.amx'.
+[12:52:00]   Loading filterscript 'stunt_island2.amx'...
+[12:52:00]   Unable to load filterscript 'stunt_island2.amx'.
+[12:52:00]   Loading filterscript 'ospawner.amx'...
+[12:52:00]   Unable to load filterscript 'ospawner.amx'.
+[12:52:00]   Loaded 0 filterscripts.
+
+[12:52:00] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:52:00] 
+----------------------------------
+[12:52:00]   Bare Script
+
+[12:52:00] ----------------------------------
+
+[12:52:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:52:48] 
+[12:52:48] Server Plugins
+[12:52:48] --------------
+[12:52:48]  Loaded 0 plugins.
+
+[12:52:48] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[12:52:48] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[12:52:48] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[12:52:48] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[12:52:48] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[12:52:48] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[12:52:48] 
+[12:52:48] Filterscripts
+[12:52:48] ---------------
+[12:52:48]   Loading filterscript 'test.amx'...
+[12:52:48] Test damage "%%" by CBuster
+[12:52:48]   Loaded 1 filterscripts.
+
+[12:52:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:52:48] 
+----------------------------------
+[12:52:48]   Bare Script
+
+[12:52:48] ----------------------------------
+
+[12:52:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:53:07] 
+[12:53:07] Server Plugins
+[12:53:07] --------------
+[12:53:07]  Loaded 0 plugins.
+
+[12:53:07] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[12:53:07] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[12:53:07] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[12:53:07] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[12:53:07] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[12:53:07] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[12:53:07] 
+[12:53:07] Filterscripts
+[12:53:07] ---------------
+[12:53:07]   Loading filterscript 'test.amx'...
+[12:53:07] Test damage "%" by CBuster
+[12:53:07]   Loaded 1 filterscripts.
+
+[12:53:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:53:07] 
+----------------------------------
+[12:53:07]   Bare Script
+
+[12:53:07] ----------------------------------
+
+[12:53:07] Number of vehicle models: 0
+[12:53:58] [connection] incoming connection: 127.0.0.1:51697 id: 0
+[12:54:04] [join] CBuster has joined the server (0:127.0.0.1)
+[12:55:12] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:57:05] 
+[12:57:05] Server Plugins
+[12:57:05] --------------
+[12:57:05]  Loaded 0 plugins.
+
+[12:57:05] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[12:57:05] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[12:57:05] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[12:57:05] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[12:57:05] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[12:57:05] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[12:57:05] 
+[12:57:05] Filterscripts
+[12:57:05] ---------------
+[12:57:05]   Loading filterscript 'test.amx'...
+[12:57:05] Test damage "%" by CBuster
+[12:57:05]   Loaded 1 filterscripts.
+
+[12:57:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:57:05] 
+----------------------------------
+[12:57:05]   Bare Script
+
+[12:57:05] ----------------------------------
+
+[12:57:05] Number of vehicle models: 0
+[12:57:32] [connection] incoming connection: 127.0.0.1:50399 id: 0
+[12:57:32] [join] CBuster has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:59:09] 
+[12:59:09] Server Plugins
+[12:59:09] --------------
+[12:59:09]  Loaded 0 plugins.
+
+[12:59:09] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[12:59:09] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[12:59:09] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[12:59:09] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[12:59:09] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[12:59:09] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[12:59:09] 
+[12:59:09] Filterscripts
+[12:59:09] ---------------
+[12:59:09]   Loading filterscript 'test.amx'...
+[12:59:09] Test damage "%" by CBuster
+[12:59:09]   Loaded 1 filterscripts.
+
+[12:59:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:59:09] 
+----------------------------------
+[12:59:09]   Bare Script
+
+[12:59:09] ----------------------------------
+
+[12:59:09] Number of vehicle models: 0
+[12:59:22] [connection] incoming connection: 127.0.0.1:63461 id: 0
+[12:59:22] [join] CBuster has joined the server (0:127.0.0.1)
+[13:01:40] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:03:46] 
+[13:03:46] Server Plugins
+[13:03:46] --------------
+[13:03:46]  Loaded 0 plugins.
+
+[13:03:46] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:03:46] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:03:46] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:03:46] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:03:46] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:03:46] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:03:46] 
+[13:03:46] Filterscripts
+[13:03:46] ---------------
+[13:03:46]   Loading filterscript 'test.amx'...
+[13:03:46] Test damage "%" by CBuster
+[13:03:46]   Loaded 1 filterscripts.
+
+[13:03:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:03:46] 
+----------------------------------
+[13:03:46]   Bare Script
+
+[13:03:46] ----------------------------------
+
+[13:03:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:12:14] 
+[13:12:14] Server Plugins
+[13:12:14] --------------
+[13:12:14]  Loaded 0 plugins.
+
+[13:12:14] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:12:14] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:12:14] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:12:14] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:12:14] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:12:14] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:12:14] 
+[13:12:14] Filterscripts
+[13:12:14] ---------------
+[13:12:14]   Loading filterscript 'test.amx'...
+[13:12:14] Test damage "%" by CBuster
+[13:12:14]   Loaded 1 filterscripts.
+
+[13:12:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:12:14] 
+----------------------------------
+[13:12:14]   Bare Script
+
+[13:12:14] ----------------------------------
+
+[13:12:14] Number of vehicle models: 0
+[13:12:46] [connection] incoming connection: 127.0.0.1:63892 id: 0
+[13:12:46] [join] CBuster has joined the server (0:127.0.0.1)
+[13:17:23] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:17:43] 
+[13:17:43] Server Plugins
+[13:17:43] --------------
+[13:17:43]  Loaded 0 plugins.
+
+[13:17:43] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:17:43] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:17:43] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:17:43] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:17:43] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:17:43] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:17:43] 
+[13:17:43] Filterscripts
+[13:17:43] ---------------
+[13:17:43]   Loading filterscript 'test.amx'...
+[13:17:43] Test damage "%" by CBuster
+[13:17:43]   Loaded 1 filterscripts.
+
+[13:17:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:17:43] 
+----------------------------------
+[13:17:43]   Bare Script
+
+[13:17:43] ----------------------------------
+
+[13:17:43] Number of vehicle models: 0
+[13:18:18] [connection] incoming connection: 127.0.0.1:63025 id: 0
+[13:18:18] [join] CBuster has joined the server (0:127.0.0.1)
+[13:19:32] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:26:59] 
+[13:26:59] Server Plugins
+[13:26:59] --------------
+[13:26:59]  Loaded 0 plugins.
+
+[13:26:59] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:26:59] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:26:59] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:26:59] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:26:59] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:26:59] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:26:59] 
+[13:26:59] Filterscripts
+[13:26:59] ---------------
+[13:26:59]   Loading filterscript 'test.amx'...
+[13:26:59] Test damage "%" by CBuster
+[13:26:59]   Loaded 1 filterscripts.
+
+[13:26:59] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:26:59] 
+----------------------------------
+[13:26:59]   Bare Script
+
+[13:26:59] ----------------------------------
+
+[13:26:59] Number of vehicle models: 0
+[13:27:11] [connection] incoming connection: 127.0.0.1:58624 id: 0
+[13:27:11] [join] CBuster has joined the server (0:127.0.0.1)
+[13:27:21] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:28:19] 
+[13:28:19] Server Plugins
+[13:28:19] --------------
+[13:28:19]  Loaded 0 plugins.
+
+[13:28:19] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:28:19] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:28:19] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:28:19] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:28:19] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:28:19] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:28:19] 
+[13:28:19] Filterscripts
+[13:28:19] ---------------
+[13:28:19]   Loading filterscript 'test.amx'...
+[13:28:19] Test damage "%" by CBuster
+[13:28:19]   Loaded 1 filterscripts.
+
+[13:28:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:28:19] 
+----------------------------------
+[13:28:19]   Bare Script
+
+[13:28:19] ----------------------------------
+
+[13:28:19] Number of vehicle models: 0
+[13:28:32] [connection] incoming connection: 127.0.0.1:64638 id: 0
+[13:28:32] [join] CBuster has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:56:07] 
+[13:56:07] Server Plugins
+[13:56:07] --------------
+[13:56:07]  Loaded 0 plugins.
+
+[13:56:07] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:56:07] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:56:07] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:56:07] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:56:07] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:56:07] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:56:07] 
+[13:56:07] Filterscripts
+[13:56:07] ---------------
+[13:56:07]   Loading filterscript 'test.amx'...
+[13:56:07] Test damage "%" by CBuster
+[13:56:07]   Loaded 1 filterscripts.
+
+[13:56:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:56:07] 
+----------------------------------
+[13:56:07]   Bare Script
+
+[13:56:07] ----------------------------------
+
+[13:56:07] Number of vehicle models: 0
+[13:56:20] [connection] incoming connection: 127.0.0.1:55505 id: 0
+[13:56:20] [join] CBuster has joined the server (0:127.0.0.1)
+[13:56:40] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:07:23] 
+[14:07:23] Server Plugins
+[14:07:23] --------------
+[14:07:23]  Loaded 0 plugins.
+
+[14:07:23] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:07:23] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:07:23] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:07:23] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:07:23] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:07:23] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:07:23] 
+[14:07:23] Filterscripts
+[14:07:23] ---------------
+[14:07:23]   Loading filterscript 'test.amx'...
+[14:07:23] Test damage "%" by CBuster
+[14:07:23]   Loaded 1 filterscripts.
+
+[14:07:23] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:07:23] 
+----------------------------------
+[14:07:23]   Bare Script
+
+[14:07:23] ----------------------------------
+
+[14:07:23] Number of vehicle models: 0
+[14:07:50] [connection] incoming connection: 127.0.0.1:53564 id: 0
+[14:07:50] [join] CBuster has joined the server (0:127.0.0.1)
+[14:08:41] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:11:14] 
+[14:11:14] Server Plugins
+[14:11:14] --------------
+[14:11:14]  Loaded 0 plugins.
+
+[14:11:14] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:11:14] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:11:14] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:11:14] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:11:14] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:11:14] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:11:14] 
+[14:11:14] Filterscripts
+[14:11:14] ---------------
+[14:11:14]   Loading filterscript 'test.amx'...
+[14:11:14] Test damage "%" by CBuster
+[14:11:14]   Loaded 1 filterscripts.
+
+[14:11:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:11:14] 
+----------------------------------
+[14:11:14]   Bare Script
+
+[14:11:14] ----------------------------------
+
+[14:11:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:11:40] 
+[14:11:40] Server Plugins
+[14:11:40] --------------
+[14:11:40]  Loaded 0 plugins.
+
+[14:11:40] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:11:40] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:11:40] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:11:40] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:11:40] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:11:40] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:11:40] 
+[14:11:40] Filterscripts
+[14:11:40] ---------------
+[14:11:40]   Loading filterscript 'test.amx'...
+[14:11:40] Test damage "%" by CBuster
+[14:11:40]   Loaded 1 filterscripts.
+
+[14:11:40] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:11:40] 
+----------------------------------
+[14:11:40]   Bare Script
+
+[14:11:40] ----------------------------------
+
+[14:11:40] Number of vehicle models: 0
+[14:12:08] [connection] incoming connection: 127.0.0.1:51467 id: 0
+[14:12:09] [join] CBuster has joined the server (0:127.0.0.1)
+[14:13:09] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:19:54] 
+[14:19:54] Server Plugins
+[14:19:54] --------------
+[14:19:54]  Loaded 0 plugins.
+
+[14:19:54] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:19:54] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:19:54] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:19:54] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:19:54] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:19:54] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:19:54] 
+[14:19:54] Filterscripts
+[14:19:54] ---------------
+[14:19:54]   Loading filterscript 'test.amx'...
+[14:19:54] Test damage "%" by CBuster
+[14:19:54]   Loaded 1 filterscripts.
+
+[14:19:54] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:19:54] 
+----------------------------------
+[14:19:54]   Bare Script
+
+[14:19:54] ----------------------------------
+
+[14:19:54] Number of vehicle models: 0
+[14:20:29] [connection] incoming connection: 127.0.0.1:58379 id: 0
+[14:20:29] [join] CBuster has joined the server (0:127.0.0.1)
+[14:21:55] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:24:48] 
+[14:24:48] Server Plugins
+[14:24:48] --------------
+[14:24:48]  Loaded 0 plugins.
+
+[14:24:48] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:24:48] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:24:48] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:24:48] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:24:48] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:24:48] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:24:49] 
+[14:24:49] Filterscripts
+[14:24:49] ---------------
+[14:24:49]   Loading filterscript 'test.amx'...
+[14:24:49] Test damage "%" by CBuster
+[14:24:49]   Loaded 1 filterscripts.
+
+[14:24:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:24:49] 
+----------------------------------
+[14:24:49]   Bare Script
+
+[14:24:49] ----------------------------------
+
+[14:24:49] Number of vehicle models: 0
+[14:25:12] [connection] incoming connection: 127.0.0.1:53830 id: 0
+[14:25:12] [join] CBuster has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:39:16] 
+[14:39:16] Server Plugins
+[14:39:16] --------------
+[14:39:16]  Loaded 0 plugins.
+
+[14:39:16] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:39:16] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:39:16] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:39:16] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:39:16] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:39:16] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:39:16] 
+[14:39:16] Filterscripts
+[14:39:16] ---------------
+[14:39:16]   Loading filterscript 'test.amx'...
+[14:39:16] Test damage "%" by CBuster
+[14:39:16]   Loaded 1 filterscripts.
+
+[14:39:16] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:39:16] 
+----------------------------------
+[14:39:16]   Bare Script
+
+[14:39:16] ----------------------------------
+
+[14:39:16] Number of vehicle models: 0
+[14:40:07] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:40:12] 
+[14:40:12] Server Plugins
+[14:40:12] --------------
+[14:40:12]  Loaded 0 plugins.
+
+[14:40:12] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:40:12] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:40:12] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:40:12] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:40:12] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:40:12] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:40:12] 
+[14:40:12] Filterscripts
+[14:40:12] ---------------
+[14:40:12]   Loading filterscript 'test.amx'...
+[14:40:12] Test damage "%" by CBuster
+[14:40:12]   Loaded 1 filterscripts.
+
+[14:40:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:40:12] 
+----------------------------------
+[14:40:12]   Bare Script
+
+[14:40:12] ----------------------------------
+
+[14:40:12] Number of vehicle models: 0
+[14:40:46] [connection] incoming connection: 127.0.0.1:56193 id: 0
+[14:40:46] [join] CBuster has joined the server (0:127.0.0.1)
+[14:41:57] [part] CBuster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:42:21] 
+[14:42:21] Server Plugins
+[14:42:21] --------------
+[14:42:21]  Loaded 0 plugins.
+
+[14:42:21] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:42:21] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:42:21] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:42:21] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:42:21] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:42:21] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:42:22] 
+[14:42:22] Filterscripts
+[14:42:22] ---------------
+[14:42:22]   Loading filterscript 'test.amx'...
+[14:42:22] Test damage "%" by CBuster
+[14:42:22]   Loaded 1 filterscripts.
+
+[14:42:22] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:42:22] 
+----------------------------------
+[14:42:22]   Bare Script
+
+[14:42:22] ----------------------------------
+
+[14:42:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:49:44] 
+[14:49:44] Server Plugins
+[14:49:44] --------------
+[14:49:44]  Loaded 0 plugins.
+
+[14:49:44] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:49:44] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:49:44] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:49:44] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:49:44] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:49:44] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:49:44] 
+[14:49:44] Filterscripts
+[14:49:44] ---------------
+[14:49:44]   Loading filterscript 'test.amx'...
+[14:49:44] Test damage "%" by CBuster
+[14:49:44]   Loaded 1 filterscripts.
+
+[14:49:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:49:44] 
+----------------------------------
+[14:49:44]   Bare Script
+
+[14:49:44] ----------------------------------
+
+[14:49:44] Number of vehicle models: 0
+[14:50:11] [connection] incoming connection: 127.0.0.1:50365 id: 0
+[14:50:11] [join] CBuster has joined the server (0:127.0.0.1)
